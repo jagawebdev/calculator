@@ -1,5 +1,5 @@
 # Calculator
-A simple calculator that can perform basic operations with jQuery and Sass
+A simple calculator that can perform basic operations made with jQuery and Sass
 
 See live [here](http://www.jagawebdev.com/calculator/).
 
